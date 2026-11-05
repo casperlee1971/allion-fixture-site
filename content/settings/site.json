@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "USB Test Fixtures"
+    }
+  ],
+  "heroImage": "/uploads/apt25103-a0.jpg",
+  "brand": "Allion Test Fixture ",
+  "version": "1.0.0",
+  "updated": "2026-11-05",
+  "history": [
+    {
+      "v": "1.0.0",
+      "date": "2026-11-05",
+      "note": "初版"
+    }
+  ],
+  "change_kind": "patch",
+  "change_note": ""
+}
